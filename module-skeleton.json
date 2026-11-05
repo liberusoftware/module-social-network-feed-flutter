@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-feed-flutter",
+  "capabilityKey": "liberusoftware/module-social-network-feed",
+  "presentation": "mobile-flutter",
+  "package": "module_social_network_feed_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/social-network/nextjs/feed.md",
+  "presentationPlan": "projects/social-network/flutter/feed.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
